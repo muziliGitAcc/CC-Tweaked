@@ -1,0 +1,28 @@
+# Build directories
+/classes
+/logs
+/build
+/out
+/doc/**/*.html
+/doc/javadoc/
+/doc/index.json
+
+# Runtime directories
+/run
+/run-*
+/test-files
+
+*.ipr
+*.iws
+*.iml
+.idea
+.gradle
+*.DS_Store
+
+.classpath
+.project
+.settings/
+bin/
+*.launch
+
+/src/generated/resources/.cache

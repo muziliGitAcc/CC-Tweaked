@@ -1,0 +1,1 @@
+function craft(limit) end
